@@ -9,6 +9,15 @@ LangChain is a comprehensive framework designed for developing applications powe
 
 ## LangChain
 
+LangChain 문서의 Python 관련 부분은 몇 가지 주요 모듈을 다루며, 각 모듈은 예제, 방법 안내, 참조 문서 및 개념 안내를 제공합니다. 이러한 모듈은 다음과 같습니다:
+
+모델: LangChain에서 지원하는 다양한 모델 유형과 모델 통합.
+프롬프트: 프롬프트 관리, 최적화 및 직렬화.
+메모리: 표준 메모리 인터페이스, 메모리 구현, 메모리를 활용하는 체인 및 에이전트의 예시를 포함한 체인 또는 에이전트 호출 간의 상태 지속성.
+인덱스: LLM을 사용자 지정 텍스트 데이터와 결합하여 기능을 향상시키는 방법.
+체인: 표준 인터페이스, 통합 및 엔드투엔드 체인 예제와 함께 LLM 또는 다른 유틸리티에 대한 호출 시퀀스입니다.
+에이전트: 작업에 대한 결정을 내리고, 결과를 관찰하며, 완료될 때까지 프로세스를 반복하는 LLM으로, 표준 인터페이스, 에이전트 선택 및 엔드투엔드 에이전트 예제가 포함되어 있습니다.
+
 The Python-specific portion of LangChain's documentation covers several main modules, each providing examples, how-to guides, reference docs, and conceptual guides. These modules include:
 
 1. Models: Various model types and model integrations supported by LangChain.

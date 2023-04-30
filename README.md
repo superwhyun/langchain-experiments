@@ -1,4 +1,7 @@
 # LangChain Experiments
+이 리포지토리는 대규모 언어 모델(LLM)로 강력한 애플리케이션을 구축하기 위한 LangChain 라이브러리 실험에 중점을 두고 있습니다. 이 프로젝트는 OpenAI의 GPT-3.5 Turbo(및 곧 출시될 GPT-4)와 같은 최신 언어 모델을 활용하여 YouTube 동영상 대본에서 검색 가능한 데이터베이스를 만들고, FAISS 라이브러리를 사용하여 유사성 검색 쿼리를 수행하고, 관련성 있고 정확한 정보로 사용자 질문에 응답하는 방법을 보여줍니다.
+
+LangChain은 언어 모델로 구동되는 애플리케이션을 개발하기 위해 설계된 포괄적인 프레임워크입니다. 가장 진보되고 차별화된 애플리케이션은 데이터를 인식하고 에이전트화하여 언어 모델이 다른 데이터 소스와 연결하고 해당 환경과 상호 작용할 수 있도록 지원하기 때문에 단순히 API를 통해 LLM을 호출하는 것 이상의 기능을 제공합니다. LangChain 프레임워크는 이러한 원칙을 해결하기 위해 특별히 구축되었습니다.
 
 This repository focuses on experimenting with the LangChain library for building powerful applications with large language models (LLMs). By leveraging state-of-the-art language models like OpenAI's GPT-3.5 Turbo (and soon GPT-4), this project showcases how to create a searchable database from a YouTube video transcript, perform similarity search queries using the FAISS library, and respond to user questions with relevant and precise information.
 
